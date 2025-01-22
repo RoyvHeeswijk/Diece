@@ -1,4 +1,4 @@
-# Persoonlijkeproject3
+# Diece with THREE.js
 
 
 
